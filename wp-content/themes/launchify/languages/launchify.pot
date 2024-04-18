@@ -1,0 +1,510 @@
+# Copyright (C) 2024 Blockify
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Launchify 0.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/launchify\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-12T08:09:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: launchify\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Launchify"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://blockifywp.com/themes/launchify/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Launchify is an ultra-sleek, customizable WordPress block theme engineered for diverse industries, offering a fully responsive design, top-tier performance, and seamless user experience to propel your digital presence to new heights."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Blockify"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://blockifywp.com/"
+msgstr ""
+
+#: patterns/blog/grid-boxed.php
+msgctxt "Pattern title"
+msgid "Blog Grid Boxed"
+msgstr ""
+
+#: patterns/cta/box.php
+msgctxt "Pattern title"
+msgid "Cta Box"
+msgstr ""
+
+#: patterns/cta/full-width.php
+msgctxt "Pattern title"
+msgid "Cta Full Width"
+msgstr ""
+
+#: patterns/faq/accordion.php
+msgctxt "Pattern title"
+msgid "FAQ Accordion"
+msgstr ""
+
+#: patterns/faq/boxed.php
+msgctxt "Pattern title"
+msgid "Boxed"
+msgstr ""
+
+#: patterns/feature/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/feature/icons.php
+msgctxt "Pattern title"
+msgid "Feature Icons"
+msgstr ""
+
+#: patterns/feature/marquee.php
+msgctxt "Pattern title"
+msgid "Feature Marquee"
+msgstr ""
+
+#: patterns/feature/sections.php
+msgctxt "Pattern title"
+msgid "Feature Sections"
+msgstr ""
+
+#: patterns/feature/solutions.php
+msgctxt "Pattern title"
+msgid "Feature Solutions"
+msgstr ""
+
+#: patterns/feature/stats.php
+msgctxt "Pattern title"
+msgid "Stats"
+msgstr ""
+
+#: patterns/footer/default.php
+msgctxt "Pattern title"
+msgid "Default"
+msgstr ""
+
+#: patterns/header/default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/hero/default.php
+msgctxt "Pattern title"
+msgid "Hero Default"
+msgstr ""
+
+#: patterns/hero/left.php
+msgctxt "Pattern title"
+msgid "Hero Left"
+msgstr ""
+
+#: patterns/page/home.php
+msgctxt "Pattern title"
+msgid "Page Home"
+msgstr ""
+
+#: patterns/pricing/three-column.php
+msgctxt "Pattern title"
+msgid "Pricing Three Column"
+msgstr ""
+
+#: patterns/template/front-page.php
+msgctxt "Pattern title"
+msgid "Template Front Page"
+msgstr ""
+
+#: patterns/template/full-width.php
+msgctxt "Pattern title"
+msgid "Template Full Width"
+msgstr ""
+
+#: patterns/testimonial/brands.php
+msgctxt "Pattern title"
+msgid "Testimonial Brands"
+msgstr ""
+
+#: patterns/testimonial/scroll.php
+msgctxt "Pattern title"
+msgid "Testimonial Scroll"
+msgstr ""
+
+#: patterns/utility/dark-mode-switch.php
+msgctxt "Pattern title"
+msgid "Dark Mode Switch"
+msgstr ""
+
+#: patterns/utility/dark-mode-toggle.php
+msgctxt "Pattern title"
+msgid "Dark Mode Toggle"
+msgstr ""
+
+#: patterns/utility/intro-notice.php
+msgctxt "Pattern title"
+msgid "Utility Intro Notice"
+msgstr ""
+
+#: patterns/utility/logo.php
+msgctxt "Pattern title"
+msgid "Logo"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 950"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 900"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 800"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 700"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 600"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 400"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 300"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 200"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 50"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 25"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 950"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 900"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 800"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 700"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 600"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 400"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 300"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 200"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 50"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary 25"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 950"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 900"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 800"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 700"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 600"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 400"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 300"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 200"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 50"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral 0"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Success 600"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Success 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Success 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Warning 600"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Warning 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Warning 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Error 600"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Error 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Error 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Current"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Light"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Lighter"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Glow Up"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Circle"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Light Bulb"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Pie Chart"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary 600/500"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary 500/300"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Transparent"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Body/Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Surface/Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background/Transparent"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Transparent/Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Fade Left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Fade Right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Checkerboard"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Grid"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr ""

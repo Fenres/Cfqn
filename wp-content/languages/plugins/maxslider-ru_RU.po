@@ -1,0 +1,424 @@
+# Translation of Plugins - MaxSlider - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - MaxSlider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-24 14:47:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - MaxSlider - Stable (latest release)\n"
+
+#: maxslider.php:1850
+msgctxt "maxslider template"
+msgid "Default"
+msgstr "По умолчанию"
+
+#: maxslider.php:1516
+msgid "Viewport Height (vh)"
+msgstr "Высота окна просмотра (vh)"
+
+#: maxslider.php:1515
+msgid "Pixels (px)"
+msgstr "Пиксели (px)"
+
+#: maxslider.php:1142
+msgid "Choose a template"
+msgstr "Выбрать шаблон"
+
+#: maxslider.php:1479
+msgid "Arrows & Dots"
+msgstr "Стрелки и точки"
+
+#: maxslider.php:849 maxslider.php:856
+msgid "Slide overlay color"
+msgstr "Цвет наложения слайда"
+
+#: maxslider.php:1495
+msgid "Bottom Right"
+msgstr "Нижний правый"
+
+#: maxslider.php:1494
+msgid "Bottom Left"
+msgstr "Нижний левый"
+
+#: maxslider.php:1493
+msgid "Top Right"
+msgstr "Верхний правый"
+
+#: maxslider.php:1492
+msgid "Top Left"
+msgstr "Верхний левый"
+
+#: maxslider.php:1491
+msgid "Default (vertically centered)"
+msgstr "По-умолчанию (отцентрировано по-вертикали)"
+
+#: maxslider.php:1478
+msgid "Dots"
+msgstr "Точки"
+
+#: maxslider.php:1477
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: maxslider.php:1476
+msgid "None"
+msgstr "Отсутствует"
+
+#: maxslider.php:1425
+msgid "Set by: Settings > Media"
+msgstr "Установлено: Настройки > Медиафайлы"
+
+#: maxslider.php:1412
+msgid "Set by: MaxSlider"
+msgstr "Установлено: MaxSlider"
+
+#: maxslider.php:1399
+msgid "Set by: Theme / Plugin"
+msgstr "Установлено: Тема / Плагин"
+
+#: maxslider.php:1394
+msgid "Full size"
+msgstr "Полный размер"
+
+#. translators: %1$s is width. %2$s is height.
+#: maxslider.php:1393
+msgid "%1$s&times;%2$s"
+msgstr "%1$s&times;%2$s"
+
+#: maxslider.php:1243
+msgid "Batch Upload"
+msgstr "Множественная загрузка"
+
+#: maxslider.php:1228
+msgid "Move slide"
+msgstr "Переместить слайд"
+
+#: maxslider.php:1096 maxslider.php:1103
+msgid "Navigation background color"
+msgstr "Цвет заднего фона навигации"
+
+#: maxslider.php:1082 maxslider.php:1089
+msgid "Navigation color"
+msgstr "Цвет навигации"
+
+#: maxslider.php:1075
+msgid "Applies only to arrow navigation."
+msgstr "Применимо только к навигации стрелками."
+
+#: maxslider.php:1057
+msgid "Arrows position"
+msgstr "Месторасположение стрелок"
+
+#: maxslider.php:1051
+msgid "Please note that on mobile devices the slider will always display dots instead of arrows regardless of this setting. The \"none\" setting will always be respected."
+msgstr "Пожалуйста учитываете, что на телефонах слайдер будет всегда показывать точки вне зависимости от данной настройки. Настройка \"Ничего\" всегда принимается во внимание."
+
+#: maxslider.php:1033
+msgid "Navigation type"
+msgstr "Тип навигации"
+
+#: maxslider.php:835 maxslider.php:842
+msgid "Content background color"
+msgstr "Фоновый цвет содержимого"
+
+#. Author URI of the plugin
+msgid "https://www.cssigniter.com"
+msgstr "https://www.cssigniter.com"
+
+#. Author of the plugin
+msgid "The CSSIgniter Team"
+msgstr "Команда CSSIgniter"
+
+#. Description of the plugin
+msgid "MaxSlider is a free WordPress slider plugin that lets you create responsive sliders for your website. Shortcode and Visual Composer support included."
+msgstr "MaxSlider - это бесплатный слайдер для WordPress, который позволяет создавать адаптивные слайдеры для вашего сайта. Шорткоды и поддержка Visual Composer также присутствуют."
+
+#. Plugin URI of the plugin
+msgid "https://www.cssigniter.com/ignite/plugins/maxslider/"
+msgstr "https://www.cssigniter.com/ignite/plugins/maxslider/"
+
+#: maxslider.php:1502
+msgid "Slide"
+msgstr "Слайд"
+
+#: maxslider.php:1501
+msgid "Fade"
+msgstr "Затемнение"
+
+#: maxslider.php:1464
+msgid "Bottom"
+msgstr "Снизу"
+
+#: maxslider.php:1463
+msgid "Middle"
+msgstr "По середине"
+
+#: maxslider.php:1462
+msgid "Top"
+msgstr "Сверху"
+
+#: maxslider.php:1456
+msgid "Right"
+msgstr "Справа"
+
+#: maxslider.php:1455
+msgid "Center"
+msgstr "По центру"
+
+#: maxslider.php:1454
+msgid "Left"
+msgstr "Слева"
+
+#: maxslider.php:1448
+msgid "Large"
+msgstr "Большой"
+
+#: maxslider.php:1447
+msgid "Default"
+msgstr "По-умолчанию"
+
+#: maxslider.php:1446
+msgid "Small"
+msgstr "Маленький"
+
+#: maxslider.php:1445
+msgid "Extra small"
+msgstr "Очень маленький"
+
+#: maxslider.php:1156
+msgid "Grab the shortcode"
+msgstr "Возьмите шорткод"
+
+#: maxslider.php:1110
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: maxslider.php:1027
+msgid "Provide the height of this slider (leaving this empty will apply the default of 600px)."
+msgstr "Введите высоту этого слайдера (если оставить данное полу пустым, то высота будет равна 600px)."
+
+#: maxslider.php:988 maxslider.php:997
+msgid "Height"
+msgstr "Высота"
+
+#: maxslider.php:982
+msgid "Time in milliseconds."
+msgstr "Время в миллисекундах."
+
+#: maxslider.php:967 maxslider.php:977
+msgid "Pause between slides"
+msgstr "Пауза между переключениями слайдов"
+
+#: maxslider.php:947
+msgid "Slide effect"
+msgstr "Эффект перехода между слайдами"
+
+#: maxslider.php:941
+msgid "Auto slide"
+msgstr "Автоматическое пролистывание слайдов"
+
+#: maxslider.php:897
+msgid "Collapse All"
+msgstr "Спрятать все"
+
+#: maxslider.php:894
+msgid "Expand All"
+msgstr "Показать все"
+
+#: maxslider.php:888
+msgid "Remove all slides"
+msgstr "Удалить все слайды"
+
+#: maxslider.php:881
+msgid "Add Slide"
+msgstr "Добавить слайд"
+
+#: maxslider.php:867
+msgid "Remove Slide"
+msgstr "Удалить слайд"
+
+#: maxslider.php:813
+msgid "Vertical content alignment"
+msgstr "Расположение содержимого по-вертикали"
+
+#: maxslider.php:791
+msgid "Horizontal content alignment"
+msgstr "Расположение содержимого по-горизонтали"
+
+#: maxslider.php:765 maxslider.php:771
+msgid "Button size"
+msgstr "Размер кнопки"
+
+#: maxslider.php:752 maxslider.php:759
+msgid "Button text color"
+msgstr "Цвет текста на кнопке"
+
+#: maxslider.php:739 maxslider.php:746
+msgid "Button background color"
+msgstr "Цвет кнопки"
+
+#: maxslider.php:723 maxslider.php:730
+msgid "Button URL"
+msgstr "URL кнопки"
+
+#: maxslider.php:708 maxslider.php:715
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: maxslider.php:690 maxslider.php:697
+msgid "Subtitle color"
+msgstr "Цвет подзаголовка"
+
+#: maxslider.php:675 maxslider.php:684
+msgid "Subtitle size"
+msgstr "Размер подзаголовка"
+
+#: maxslider.php:662 maxslider.php:669
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: maxslider.php:644 maxslider.php:651
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+#: maxslider.php:629 maxslider.php:638
+msgid "Title size"
+msgstr "Размер заголовка"
+
+#: maxslider.php:616 maxslider.php:623
+msgid "Title"
+msgstr "Заголовок"
+
+#: maxslider.php:596
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: maxslider.php:583
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: maxslider.php:572
+msgid "Toggle slide visibility"
+msgstr "Переключить видимость слайда"
+
+#: maxslider.php:515
+msgid "Thank you for creating with <a href=\"%s\" target=\"_blank\">MaxSlider</a>"
+msgstr "Спасибо за то, что вы создаёте с помощью <a href=\"%s\" target=\"_blank\">MaxSlider</a>"
+
+#: maxslider.php:493
+msgid "Rate this plugin"
+msgstr "Оцените этот плагин"
+
+#: maxslider.php:489
+msgid "Documentation"
+msgstr "Документация"
+
+#: maxslider.php:485
+msgid "Support"
+msgstr "Поддержка"
+
+#: maxslider.php:457
+msgid "MaxSlider Logo"
+msgstr "Логотип MaxSlider"
+
+#: maxslider.php:391
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: maxslider.php:390 block/build/block.js:2
+msgid "Settings"
+msgstr "Настройки"
+
+#: maxslider.php:389
+msgid "Slides"
+msgstr "Слайды"
+
+#: maxslider.php:363
+msgid "No sliders found in the trash"
+msgstr "Слайдеры не найдены в корзине"
+
+#: maxslider.php:362
+msgid "No sliders found"
+msgstr "Слайдеры не найдены"
+
+#: maxslider.php:361
+msgid "Search Sliders"
+msgstr "Поиск слайдеров"
+
+#: maxslider.php:360
+msgid "View Sliders"
+msgstr "Посмотреть слайдеры"
+
+#: maxslider.php:359
+msgid "New Slider"
+msgstr "Новый слайдер"
+
+#: maxslider.php:358
+msgid "Edit Slider"
+msgstr "Редактировать слайдер"
+
+#: maxslider.php:357
+msgid "Add New Slider"
+msgstr "Добавить новый слайдер"
+
+#: maxslider.php:356
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: maxslider.php:355
+msgctxt "add new on admin bar"
+msgid "Slider"
+msgstr "Слайдер"
+
+#: maxslider.php:354
+msgctxt "admin menu"
+msgid "MaxSlider"
+msgstr "MaxSlider"
+
+#: maxslider.php:353 maxslider.php:368
+msgctxt "post type singular name"
+msgid "Slider"
+msgstr "Слайдер"
+
+#: maxslider.php:352
+msgctxt "post type general name"
+msgid "Sliders"
+msgstr "Слайдеры"
+
+#: maxslider.php:255
+msgid "Select a slide image"
+msgstr "Выберите изображение для слайда"
+
+#: maxslider.php:254
+msgid "Do you really want to remove all slides? (This will not delete your image files)."
+msgstr "Вы действительно хотите удалить все слайды? (Это не затронет ваши изображения)."
+
+#: class-maxslider-visual-composer-slider.php:50
+msgid "Choose a previously created slider from the drop down list."
+msgstr "Выберите ранее созданный слайдер из выпадающего списка."
+
+#: class-maxslider-visual-composer-slider.php:45 block/build/block.js:2
+msgid "Slider"
+msgstr "Слайдер"
+
+#: class-maxslider-visual-composer-slider.php:41
+msgid "Displays a single slider"
+msgstr "Показывает слайдер"
+
+#. translators: This translation should match the Visual Composer element
+#. category's translation, in order for the element to get grouped under the
+#. same category.
+#: class-maxslider-visual-composer-slider.php:40
+msgctxt "Visual Composer element category"
+msgid "Content"
+msgstr "Категория элемента"
+
+#. Plugin Name of the plugin
+#: class-maxslider-visual-composer-slider.php:37 maxslider.php:340
+#: block/build/block.js:2
+msgid "MaxSlider"
+msgstr "MaxSlider"
